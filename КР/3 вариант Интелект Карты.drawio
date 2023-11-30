@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2023-11-02T08:25:15.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="F8qkh2mm556RjZYza1BS" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="_YXqGhfgh126CxBNodDJ">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-14" target="EnrJRDuSaca1tSlIfGWo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-1" target="EnrJRDuSaca1tSlIfGWo-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-1" target="EnrJRDuSaca1tSlIfGWo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-1" target="EnrJRDuSaca1tSlIfGWo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-1" target="EnrJRDuSaca1tSlIfGWo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-1" value="Програмная инженерия" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="585" y="410" width="185" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-2" target="EnrJRDuSaca1tSlIfGWo-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-2" target="EnrJRDuSaca1tSlIfGWo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-2" target="EnrJRDuSaca1tSlIfGWo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-2" target="EnrJRDuSaca1tSlIfGWo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-2" target="EnrJRDuSaca1tSlIfGWo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-2" value="UML диаграмма" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="110" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-4" value="Последовательности" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-6" value="Классов" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-8" value="Деятельности" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-10" value="Пакетов" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-12" value="Прецендентов" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-14" value="Документация к проекту" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EnrJRDuSaca1tSlIfGWo-16" target="EnrJRDuSaca1tSlIfGWo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-16" value="Подходы в проектирование к ПО" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-19" value="Методы тестирования" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EnrJRDuSaca1tSlIfGWo-21" value="Паттерны создания проектов" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="740" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
